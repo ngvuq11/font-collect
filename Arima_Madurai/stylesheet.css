@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-ExtraLight.woff2') format('woff2'),
+        url('ArimaMadurai-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Bold.woff2') format('woff2'),
+        url('ArimaMadurai-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Black.woff2') format('woff2'),
+        url('ArimaMadurai-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-ExtraBold.woff2') format('woff2'),
+        url('ArimaMadurai-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Medium.woff2') format('woff2'),
+        url('ArimaMadurai-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Light.woff2') format('woff2'),
+        url('ArimaMadurai-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Regular.woff2') format('woff2'),
+        url('ArimaMadurai-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('ArimaMadurai-Thin.woff2') format('woff2'),
+        url('ArimaMadurai-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
